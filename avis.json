@@ -1,0 +1,22 @@
+[
+  {
+    "avis": "site très clair",
+    "note": 5,
+    "nom": "Gaspard"
+  },
+  {
+    "avis": "excellent malgré quelques bugs",
+    "note": 4,
+    "nom": "jean"
+  },
+  {
+    "avis": "je vous soutien",
+    "note": 5,
+    "nom": "Louise"
+  },
+  {
+    "avis": "incroyable",
+    "note": 5,
+    "nom": "Wandrille"
+  }
+]
